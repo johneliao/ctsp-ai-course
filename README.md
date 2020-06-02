@@ -1,2 +1,2 @@
-#Hello AI!!
+# Hello AI!!
 # ctsp-ai-course
